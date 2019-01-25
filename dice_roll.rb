@@ -1,5 +1,5 @@
 def roll(num) 
-  num=[1,2,3,4,5,6]
+  num=rand[1,2,3,4,5,6]
   
 end
 
