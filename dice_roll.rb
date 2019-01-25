@@ -1,6 +1,5 @@
-def roll(num) 
-  num=rand[1,2,3,4,5,6]
-  
+def roll
+  array=[1,2,3,4,5,6]
+  return rand(array)
 end
-
-roll.100times
+roll
