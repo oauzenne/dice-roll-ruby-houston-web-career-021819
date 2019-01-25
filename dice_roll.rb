@@ -1,4 +1,4 @@
 def roll(integer) 
-  puts integer >0, <7 
+  puts rolls[1,2,3,4,5,6]
   return integer
 end
